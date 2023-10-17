@@ -30,3 +30,7 @@ Comparison of PSVM and SVM Test Set Correctness:
 ### Technology Used
 
 Tech: PYTHON, ML.
+
+### PowerPoint Presentation
+
+Link to the PowerPoint presentation of the project: [Link to PowerPoint Presentation](https://github.com/anuragpor/Semester-Project-2022-IIT-Roorkee/blob/main/19312004_Anurag_Porwal_MAN-300.pptx)
