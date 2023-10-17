@@ -1,4 +1,4 @@
-# Semester-Project-2022-IIT-Roorkee
+# Proximal Support Vector Machine
 
 ## Overview
 
